@@ -55,7 +55,7 @@ namespace Eczane
 
             MessageBox.Show("Kayıt olundu");
             groupBox1.Visible = true;
-            groupBox2.Visible = false;
+            groupBox2.Visible = false; 
             
         }
 
